@@ -1,3 +1,5 @@
 # My_First_Repo
-hello this is my first repo account and i hava a not description <br>\n
+hello this is my first repo account and i hava a not description <br>
 Autho :- Manish kumar
+<hr>
+i am full fruntend developer
